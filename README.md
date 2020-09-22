@@ -1,7 +1,7 @@
-# Crop Output Forecast - Linear/non-Linear Regression model and Artificial Neural Network
+# Crop Yield Forecast - Linear/non-Linear Regression model and Artificial Neural Network
 
 ## Project Goal
-Applying Machine Learning to forecast crop output as well as Exploratory Data Analysis
+Applying Machine Learning to forecast crop yield as well as Exploratory Data Analysis
 
 ## Tasks
 
